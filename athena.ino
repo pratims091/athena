@@ -1,6 +1,6 @@
 /*
 ** Athena - Alexa voice controlled home automation
-** Made with love with Pratim Sarangi <https://github.com/pratims091>
+** Made with love by Pratim Sarangi <https://github.com/pratims091>
 ** First prototype
 **
 */
