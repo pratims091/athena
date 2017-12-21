@@ -74,14 +74,14 @@ void setup()
  
 void loop()
 {
-	 if(wifiConnected){
+    if(wifiConnected){
       upnpBroadcastResponder.serverLoop();
       
       light->serverLoop();
       nightLamp->serverLoop();
       fan->serverLoop();
       workStation->serverLoop();
-	 }
+    }
 }
 
 void LightOn() {
